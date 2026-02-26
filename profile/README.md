@@ -1,79 +1,40 @@
 # Groove Ledger 🎛️📀
 
-**Groove Ledger** is an open-source playground where music obsession meets cloud-native engineering.
+**Groove Ledger** is a personal listening journal for curated album journeys.
 
-We build tools to help people **track curated album lists**, **log listening history**, and **discover patterns over time** — without trying to replace Discogs or streaming platforms.
+It helps you track meaningful music lists, log what you’ve listened to, and reflect on how your taste evolves over time.
 
-Think of it as a **listening journal**, powered by modern infrastructure.
+Not a streaming service.  
+Not a global metadata database.  
+Not another social network.
+
+Just a structured record of your musical path.
 
 ---
 
-## Why “Groove Ledger”?
+## Why the name?
 
-A **groove** is the spiral track carved into a vinyl record — the physical path where the music lives.  
-A **ledger** is a structured record of events over time.
+A **groove** is the spiral carved into a vinyl record — the path where the music lives.  
+A **ledger** is a record of events over time.
 
 **Groove Ledger = a structured record of your musical journey.**
 
 ---
 
-## What we’re building (starting small, aiming big)
+## What it stands for
 
-✅ **MVP (in progress)**
-- A simple API (`/version`) to validate the full delivery flow
-- Containerized Spring Boot backend
-- Kubernetes-first deployments (k3s)
-- GitHub-based releases and automated deployments
+- Thoughtful curation over infinite scrolling
+- Personal progress over public performance
+- Simplicity over feature overload
+- Ownership of your listening history
 
-🎯 **Next**
-- Rolling Stone 2020 list as the first curated dataset
-- Multi-user support (GitHub authentication)
-- Listen events: _“I listened to this album on this date”_
-- Lightweight stats: progress, streaks, decades, artists
+Music is deeply personal.  
+Lists are not absolute truths — they are navigation tools through an overwhelming catalog.
 
-🔮 **Future ideas**
-- Optional Discogs integration (wishlist sync)
-- Mobile-first experience (Ionic/Capacitor or native)
-- Hybrid infra experiments (cloud + local observability/analytics)
-
----
-
-## Philosophy
-
-We aim for:
-- **Simple UX** (two clicks to log a listen)
-- **Privacy by design** (your history stays yours)
-- **Extensibility** (clean architecture, modular growth)
-- **Ops-friendly by default** (containers, observability, reproducible deploys)
-
-Groove Ledger is **not**:
-- a Discogs clone
-- a global music metadata database
-- a streaming platform
-
----
-
-## Tech Stack (current direction)
-
-- **Backend:** Java 21 + Spring Boot
-- **Frontend:** Angular (later: mobile packaging)
-- **Data:** PostgreSQL (planned)
-- **Infra:** Docker + k3s
-- **CI/CD:** GitHub Actions
-- **Observability:** Grafana + Loki (planned; possibly cloud ↔ local hybrid)
-
----
-
-## Get involved
-
-- ⭐ Star the repos if you like the direction
-- 🐛 Open issues for bugs/ideas
-- 🔧 PRs are welcome (small improvements are perfect)
-
-We’re here to build in public and ship incrementally.
+Groove Ledger exists to help you explore intentionally.
 
 ---
 
 ### Motto
 
-> **Log the listen. Learn the patterns. Keep the groove.** 🎶
+> Log the listen. Keep the groove.
