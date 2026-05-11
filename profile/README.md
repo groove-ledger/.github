@@ -12,6 +12,28 @@ Just a structured record of your musical path.
 
 ---
 
+## Use Groove Ledger
+
+You can access the application here:
+
+👉 **[https://grooveledger.com](https://grooveledger.com)**
+
+The app is currently focused on curated album lists, personal listening progress, and simple music discovery through intentional exploration.
+
+---
+
+## Community
+
+Groove Ledger is an open project for music lovers who want to suggest new curated lists, report issues, or share ideas.
+
+If you want to contribute suggestions, please use the community repository:
+
+👉 **[groove-ledger-community](https://github.com/groove-ledger/groove-ledger-community)**
+
+This is the best place to propose new album lists, discuss improvements, or open issues related to public content.
+
+---
+
 ## Why the name?
 
 A **groove** is the spiral carved into a vinyl record — the path where the music lives.  
